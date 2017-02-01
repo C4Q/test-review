@@ -2,5 +2,5 @@
 node_modules
 bundle
 config.json
-build/
-
+server/env
+server/db/models/index.js
